@@ -22,5 +22,5 @@ void loop(){
   lcd.setCursor(0,0);
   lcd.print("BY k0mmo");
   lcd.setCursor(0,2);
-  lcd.print("Done in c++");
+  lcd.print("Arduino");
 }
