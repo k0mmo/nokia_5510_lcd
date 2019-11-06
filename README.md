@@ -1,4 +1,4 @@
-# # nokia_5510_lcd
+# # nokia_5110_lcd
 <br>testing script to explain how to hook up a nokia 5110 lkcd to a arduino uno
 <br>
 <br>wire hook up:
