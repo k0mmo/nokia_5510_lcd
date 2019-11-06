@@ -1,5 +1,5 @@
 # # nokia_5110_lcd
-<br>testing script to explain how to hook up a nokia 5110 lkcd to a arduino uno
+<br>testing script to explain how to hook up a nokia 5110 lcd to a arduino uno
 <br>
 <br>wire hook up:
 <br>rst - 10K resistor - arduino pin 3
